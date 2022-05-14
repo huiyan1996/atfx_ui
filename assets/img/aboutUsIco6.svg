@@ -1,0 +1,18 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 52 56">
+  <g id="Сгруппировать_5241" data-name="Сгруппировать 5241" transform="translate(-760 -370)">
+    <rect id="Прямоугольник_20117" data-name="Прямоугольник 20117" width="10" height="9" rx="2" transform="translate(766 417)" fill="#ff8055"/>
+    <rect id="Прямоугольник_20118" data-name="Прямоугольник 20118" width="10" height="9" rx="2" transform="translate(796 417)" fill="#ff8055"/>
+    <rect id="Прямоугольник_20116" data-name="Прямоугольник 20116" width="52" height="51" rx="2" transform="translate(760 370)" fill="#4c4c4c"/>
+    <g id="Прямоугольник_20119" data-name="Прямоугольник 20119" transform="translate(766 376)" fill="#4c4c4c" stroke="#fff" stroke-width="1.5">
+      <rect width="40" height="39" rx="2" stroke="none"/>
+      <rect x="0.75" y="0.75" width="38.5" height="37.5" rx="1.25" fill="none"/>
+    </g>
+    <circle id="Эллипс_132" data-name="Эллипс 132" cx="9" cy="9" r="9" transform="translate(777 387)" fill="#fff"/>
+    <rect id="Прямоугольник_20120" data-name="Прямоугольник 20120" width="6" height="5" rx="2" transform="translate(764.5 390.5) rotate(-90)" fill="#ff8055"/>
+    <rect id="Прямоугольник_20121" data-name="Прямоугольник 20121" width="6" height="5" rx="2" transform="translate(764.5 406.5) rotate(-90)" fill="#ff8055"/>
+    <g id="Эллипс_133" data-name="Эллипс 133" transform="translate(780 390)" fill="#fff" stroke="#4c4c4c" stroke-width="1.5">
+      <circle cx="6" cy="6" r="6" stroke="none"/>
+      <circle cx="6" cy="6" r="5.25" fill="none"/>
+    </g>
+  </g>
+</svg>

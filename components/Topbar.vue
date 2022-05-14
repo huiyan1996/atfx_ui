@@ -3,10 +3,10 @@
   <div class="navbar-top" @mouseleave="closeAllMenu">
     <div class="container">
       <div class="row">
-        <div class="col-lg-2 col-md-3 p-4">
-          <NuxtLogo />
+        <div class="col-lg-2 col-md-3 col-3 p-4">
+          <nuxt-link to="/"><NuxtLogo /></nuxt-link>
         </div>
-        <div class="col-lg-10 col-md-9 d-flex flex-column">
+        <div class="col-lg-10 col-md-9 col-9 d-flex flex-column">
           <div class="bar1 d-flex align-items-center justify-content-between p-3">
             <div class="left">
               <NuxtLink class="bar1Btn" to="/">机构业务</NuxtLink>

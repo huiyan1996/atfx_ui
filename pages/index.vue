@@ -10,7 +10,7 @@
             </div>
           </div>
         </b-collapse>
-        <button type="button" class="latestToggle" v-b-toggle.latestNews>最新资讯 <b-icon class="ml-3" :icon="visible?'chevron-up':'chevron-down'"></b-icon> </button>
+        <button type="button" class="latestToggle" v-b-toggle.latestNews> <b-icon class="mr-3" :icon="visible?'chevron-up':'chevron-down'"></b-icon> 最新资讯 <b-icon class="ml-3" :icon="visible?'chevron-up':'chevron-down'"></b-icon> </button>
         <Banner :imgSrc="require('~/assets/img/banner2.jpg')">
           <template v-slot:customContent>
             <div class="container">

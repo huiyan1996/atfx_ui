@@ -181,6 +181,10 @@ h1, h2, h3, h4, h5, h6, p, li {
   margin-bottom: 5px;
 }
 
+.menuBurger {
+  font-size: 25px;
+}
+
 /* Index */
 .latestToggle {
   padding: 6px 15px;

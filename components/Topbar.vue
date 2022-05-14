@@ -6,7 +6,7 @@
         <div class="col-lg-2 col-md-3 col-3 p-4">
           <nuxt-link to="/"><NuxtLogo /></nuxt-link>
         </div>
-        <div class="col-lg-10 col-md-9 col-9 d-flex flex-column">
+        <div class="col-lg-10 col-md-9 col-9 d-none d-md-flex flex-column">
           <div class="bar1 d-flex align-items-center justify-content-between p-3">
             <div class="left">
               <NuxtLink class="bar1Btn" to="/">机构业务</NuxtLink>
@@ -120,6 +120,11 @@
               <button type="button" class="btn btn-success">马上加入</button>
             </div>
           </div>
+        </div>
+        <div class="col-9 d-flex align-items-center justify-content-end d-md-none text-right">
+          <a href="javascript:;" class="menuBurger blueLink">
+            <b-icon icon="list"></b-icon>
+          </a>
         </div>
       </div>
     </div>

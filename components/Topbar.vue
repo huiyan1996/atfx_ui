@@ -23,7 +23,7 @@
                   <div class="row">
                     <div class="col-md-3">
                       <NuxtLink class="defaultLink" to="/about"><b>关于我们</b></NuxtLink>
-                      <NuxtLink class="defaultLink" to="/">公司愿景</NuxtLink>
+                      <NuxtLink class="defaultLink" to="/vision">公司愿景</NuxtLink>
                       <NuxtLink class="defaultLink" to="/">为何选择ATFX</NuxtLink>
                       <NuxtLink class="defaultLink" to="/">监管</NuxtLink>
                       <NuxtLink class="defaultLink" to="/">奖项与荣誉</NuxtLink>

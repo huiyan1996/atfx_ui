@@ -40,6 +40,10 @@ h1, h2, h3, h4, h5, h6, p, li {
   color: var(--orange);
 }
 
+.text-grey {
+  color: var(--darkGrey);
+}
+
 /* Default font-size */
 .text-banner {
   font-size: 22px;

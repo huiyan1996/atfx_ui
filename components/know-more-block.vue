@@ -1,5 +1,5 @@
 <template>
-  <div class="container-fluid px-0 mb-5">
+  <div class="container-fluid px-0 my-5">
     <div class="container">
         <div class="row justify-content-center align-items-center">
             <div class="col-md-6">

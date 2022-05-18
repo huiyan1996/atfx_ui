@@ -25,8 +25,8 @@
                       <NuxtLink class="defaultLink" to="/about"><b>关于我们</b></NuxtLink>
                       <NuxtLink class="defaultLink" to="/vision">公司愿景</NuxtLink>
                       <NuxtLink class="defaultLink" to="/whyus">为何选择ATFX</NuxtLink>
-                      <NuxtLink class="defaultLink" to="/">监管</NuxtLink>
-                      <NuxtLink class="defaultLink" to="/">奖项与荣誉</NuxtLink>
+                      <NuxtLink class="defaultLink" to="/regulators">监管</NuxtLink>
+                      <NuxtLink class="defaultLink" to="/award">奖项与荣誉</NuxtLink>
                       <NuxtLink class="defaultLink" to="/">赞助</NuxtLink>
                       <NuxtLink class="defaultLink" to="/">公司新闻</NuxtLink>
                       <NuxtLink class="defaultLink" to="/">联系我们</NuxtLink>

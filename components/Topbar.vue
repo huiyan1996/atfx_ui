@@ -27,10 +27,10 @@
                       <NuxtLink class="defaultLink" to="/whyus">为何选择ATFX</NuxtLink>
                       <NuxtLink class="defaultLink" to="/regulators">监管</NuxtLink>
                       <NuxtLink class="defaultLink" to="/award">奖项与荣誉</NuxtLink>
-                      <NuxtLink class="defaultLink" to="/">赞助</NuxtLink>
-                      <NuxtLink class="defaultLink" to="/">公司新闻</NuxtLink>
-                      <NuxtLink class="defaultLink" to="/">联系我们</NuxtLink>
-                      <NuxtLink class="defaultLink" to="/">加入我们</NuxtLink>
+                      <NuxtLink class="defaultLink" to="/sponsor">赞助</NuxtLink>
+                      <NuxtLink class="defaultLink" to="/news">公司新闻</NuxtLink>
+                      <!-- <NuxtLink class="defaultLink" to="/">联系我们</NuxtLink>
+                      <NuxtLink class="defaultLink" to="/">加入我们</NuxtLink> -->
                     </div>
                   </div>
                 </div>
@@ -39,7 +39,7 @@
                 <div class="bar2SubMenu" v-if="menu.trading" @mouseleave="closeAllMenu">
                   <div class="row">
                     <div class="col-md-3">
-                      <div><b>市场</b></div>
+                      <NuxtLink class="defaultLink" to="/market"><b>市场</b></NuxtLink>
                       <NuxtLink class="defaultLink" to="/">外汇</NuxtLink>
                       <NuxtLink class="defaultLink" to="/">指数</NuxtLink>
                       <NuxtLink class="defaultLink" to="/">大宗商品</NuxtLink>

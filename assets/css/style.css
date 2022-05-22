@@ -273,3 +273,72 @@ h1, h2, h3, h4, h5, h6, p, li {
   margin: 0 auto 15px auto;
   display: block;
 }
+
+.sponsorIcon {
+  height: 70px;
+  margin: 0 auto 15px auto;
+  display: block;
+}
+
+/* news */
+
+.newsBlock {
+  background-color: #fff;
+  overflow: hidden;
+  border-radius: 15px;
+  box-shadow: 0 2px 15px -6px #000;
+  cursor: pointer;
+}
+
+.newsBlock .topImg {
+  height: 200px;
+  overflow: hidden;
+}
+
+.newsBlock .topImg img {
+  object-fit: cover;
+  object-position: center;
+  transition: .5s;
+}
+
+.newsBlock:hover .topImg img {
+  transform: scale(1.2);
+}
+
+.newsBlock .description {
+  padding: 20px;
+  color: #000;
+  font-size: 20px;
+  font-weight: 800;
+}
+
+.newsBlock .description .currentDate {
+  font-size: 13px;
+  color: #676767;
+  font-weight: 300;
+}
+
+.newsModalImg {
+  width: 100%;
+}
+
+.modalDesc {
+  padding: 15px 0;
+  color: #000;
+}
+
+.modalDesc .title {
+  font-size: 24px;
+  font-weight: 900;
+}
+
+.modalDesc .date {
+  font-size: 13px;
+  color: #676767;
+  font-weight: 300;
+}
+.modalDesc .content {
+  margin-top: 20px;
+  font-size: 17px;
+  color: #333;
+}

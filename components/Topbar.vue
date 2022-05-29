@@ -40,19 +40,19 @@
                   <div class="row">
                     <div class="col-md-3">
                       <NuxtLink class="defaultLink" to="/market"><b>市场</b></NuxtLink>
-                      <NuxtLink class="defaultLink" to="/">外汇</NuxtLink>
-                      <NuxtLink class="defaultLink" to="/">指数</NuxtLink>
-                      <NuxtLink class="defaultLink" to="/">大宗商品</NuxtLink>
-                      <NuxtLink class="defaultLink" to="/">加密货币</NuxtLink>
-                      <NuxtLink class="defaultLink" to="/">ETF CFDs</NuxtLink>
-                      <NuxtLink class="defaultLink" to="/">香港股票差价合约</NuxtLink>
-                      <NuxtLink class="defaultLink" to="/">股票</NuxtLink>
+                      <NuxtLink class="defaultLink" to="/trading">外汇</NuxtLink>
+                      <NuxtLink class="defaultLink" to="/indices">指数</NuxtLink>
+                      <NuxtLink class="defaultLink" to="/commodities">大宗商品</NuxtLink>
+                      <NuxtLink class="defaultLink" to="/cryptocurrencies">加密货币</NuxtLink>
+                      <!-- <NuxtLink class="defaultLink" to="/etf">ETF CFDs</NuxtLink> -->
+                      <NuxtLink class="defaultLink" to="/cfd">香港股票差价合约</NuxtLink>
+                      <NuxtLink class="defaultLink" to="/shares-trading">股票</NuxtLink>
                     </div>
                     <div class="col-md-3">
                       <div><b>实时行情</b></div>
-                      <NuxtLink class="defaultLink" to="/">EUR/USD</NuxtLink>
-                      <NuxtLink class="defaultLink" to="/">GBP/USD</NuxtLink>
-                      <NuxtLink class="defaultLink" to="/">USD/JPY</NuxtLink>
+                      <NuxtLink class="defaultLink" to="/eur-usd">EUR/USD</NuxtLink>
+                      <NuxtLink class="defaultLink" to="/gbp-usd">GBP/USD</NuxtLink>
+                      <NuxtLink class="defaultLink" to="/usd-jpy">USD/JPY</NuxtLink>
                       <NuxtLink class="defaultLink" to="/">道琼斯</NuxtLink>
                       <NuxtLink class="defaultLink" to="/">黄金价格</NuxtLink>
                       <NuxtLink class="defaultLink" to="/">比特币价格</NuxtLink>

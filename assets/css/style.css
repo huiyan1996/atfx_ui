@@ -20,6 +20,14 @@ h1, h2, h3, h4, h5, h6, p, li {
   font-weight: lighter;
 }
 
+b, strong {
+  font-weight: 600;
+}
+
+.text-nowrap {
+  white-space: nowrap;
+}
+
 /* Theme bg Color Class */
 .bg-grey {
   background: var(--lightGrey);
@@ -280,6 +288,10 @@ h1, h2, h3, h4, h5, h6, p, li {
   display: block;
 }
 
+.sponsorIcon.left {
+  margin: 0 auto 15px 0;
+}
+
 /* news */
 
 .newsBlock {
@@ -341,4 +353,22 @@ h1, h2, h3, h4, h5, h6, p, li {
   margin-top: 20px;
   font-size: 17px;
   color: #333;
+}
+
+.tradingBanner {
+  background-image: url(~/assets/img/tradingBanner.jpg);
+  background-size: cover;
+  background-position: center center;
+  color: #fff;
+}
+
+.indicesBanner {
+  background-image: url(~/assets/img/indicesBanner1.jpg);
+  background-size: cover;
+  background-position: center center;
+  color: #fff;
+}
+
+.table-dark {
+  background-color: rgba(0,0,0,0.3);
 }

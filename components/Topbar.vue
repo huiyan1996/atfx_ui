@@ -53,8 +53,8 @@
                       <NuxtLink class="defaultLink" to="/eur-usd">EUR/USD</NuxtLink>
                       <NuxtLink class="defaultLink" to="/gbp-usd">GBP/USD</NuxtLink>
                       <NuxtLink class="defaultLink" to="/usd-jpy">USD/JPY</NuxtLink>
-                      <NuxtLink class="defaultLink" to="/">道琼斯</NuxtLink>
-                      <NuxtLink class="defaultLink" to="/">黄金价格</NuxtLink>
+                      <NuxtLink class="defaultLink" to="/dow-jones">道琼斯</NuxtLink>
+                      <NuxtLink class="defaultLink" to="/gold-price">黄金价格</NuxtLink>
                       <NuxtLink class="defaultLink" to="/">比特币价格</NuxtLink>
                       <NuxtLink class="defaultLink" to="/">原油价格</NuxtLink>
                     </div>
